@@ -30,6 +30,10 @@
     background-color: #fff;
 }
 
+.bg-color-work-history {
+    background-color: #9b59b6;
+}
+
 /* -----------------------------heading */
 header {
     margin: 0;
@@ -151,6 +155,7 @@ h1,h2,h3,h4 {
     float: none;
 }
 
+.history-heading,
 .section-heading {
     font-family: "Exo" sans-serif;
     font-weight: 300;
@@ -275,4 +280,11 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+}
+
+/*------------------------------Work History*/
+
+.history-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
 }
